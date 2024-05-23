@@ -1,7 +1,13 @@
 HEAD
+HEAD
 mi segunda modificacion
 
 primera modificacion
  Dev_branch
 
 otra modificacion en rama main antes de hacer merg con qa
+
+primer comit en qa
+
+Segundo comit en qa
+ Qa_branch
